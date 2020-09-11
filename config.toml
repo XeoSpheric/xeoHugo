@@ -27,8 +27,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "XeoSmoot"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
