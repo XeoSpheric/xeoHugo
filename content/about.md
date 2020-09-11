@@ -1,21 +1,18 @@
 +++
 title = "About"
 date = "2019-01-25"
-author = "Radek"
+author = "Calvin Smoot"
 +++
 
-# Hi there
+A little about me. I am a cyber security enthusiast! I load the Black Arch toolkit on top of my Arch build, and love to pick computer’s chips. I would tell you how I store my passwords, but I have to keep some secrets. I love PowerShell Core and Zsh and find that the two work very well together. This helps me integrate many tools from a large collection for my benefit.
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+For the past year I have been running Linux as my daily driver, and I have been distro hopping between vanilla Debian, PopOs, Kali (as a main not great), Ubuntu and many others. They were all great for their own reasons, and really if I wanted to, could have molded it to be perfect. However there is Arch Linux. This literally has nothing. No official installer. You have to format, pacstap, and script until it works. This was exciting to me and really brought me into the fold for running Linux. I am ever going to tell you that Arch is the only right choice, but it was for me. It has forced me to learn and grow and even helps me be a better Windows Administrator.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I am constantly learning at my job, and that is what I love about IT. There are constantly new challenges. Sometimes you stumble on the answer and then figure out what you actually did. Writing things down has saved me dozens of times. Below are my certicates/awards/degrees
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+> CompTIA Security+
+> Boy Souts of America Eagle Scout
+> Candian Scouts Cheif Scout
+> Expected to Graduate April 2021 with
+>  BS in Computer Information Technology from
+>  Brigham Young University - Idaho
